@@ -2,4 +2,4 @@
 exclude=
         migrations,
         __pycache,
-        manage.py,
+        manage.py
